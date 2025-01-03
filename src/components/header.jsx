@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Nav from './Nav';
 
 
-const Header = () => {
+function Header () {
   return (
     <header>
       <h1>Michael Garcia</h1>
