@@ -16,7 +16,6 @@ A professional portfolio showcasing my web development projects, skills, and con
 - **CSS**: Custom styling for a clean, professional look.
 - **Vite**: Development environment for fast build and serve times.
 - **JavaScript (ES6)**: For dynamic functionality.
-- **GitHub Pages** (optional): Hosting the portfolio online.
 
 ## Installation
 
